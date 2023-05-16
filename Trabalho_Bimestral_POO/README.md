@@ -13,4 +13,4 @@ São conceitos abordados no trabalho, desde o que é um simples objeto até como
 #### Desenvolvimento e experiência:
 O trabalho proposto pelo professor Vinicius, trata-se de um escopo simples apenas para fundamentar o conteudo desenvolvido ao decorrer das aulas, afim de fundamenta-los ainda mais. Observa-se que, em um primeiro momento uma "Enxurrada" de dúvidas vieram à tona, em relação a por exemplo com desenvolver de forma correta o que estava sendo pedido, no entando, posteriormente todas essa "lacunas" de conhecimento foram preenchidas por meio de simples bate papos com o professor e com os próprios integrantes do grupo.
 
-
+Iniciand o desenvolvimento
