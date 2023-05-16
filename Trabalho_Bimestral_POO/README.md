@@ -13,4 +13,17 @@ São conceitos abordados no trabalho, desde o que é um simples objeto até como
 #### Desenvolvimento e experiência:
 O trabalho proposto pelo professor Vinicius, trata-se de um escopo simples apenas para fundamentar o conteudo desenvolvido ao decorrer das aulas, afim de fundamenta-los ainda mais. Observa-se que, em um primeiro momento uma "Enxurrada" de dúvidas vieram à tona, em relação a por exemplo com desenvolver de forma correta o que estava sendo pedido, no entando, posteriormente todas essa "lacunas" de conhecimento foram preenchidas por meio de simples bate papos com o professor e com os próprios integrantes do grupo.
 
-Iniciand o desenvolvimento
+> Iniciando o desenvolvimento
+#### Atividade 1 -- Trabalho 1:
+A Primeira atividade, consistia basicamente em implementar uma regra de negócio para dentro de um município qualquer, calcular o valor do IPTU pago pelos morandores dos imóveis que estão em atraso com o pagamento do mesmo.
+
+Com isso, viu-se necessário a criação de no mínimo 3 classe.
+Sendo:
+
+- 1º: Prefeitura (MAIN)
+- 2º: Municipio 
+- 3º: Imovel
+
+
+
+
