@@ -26,7 +26,7 @@ Sendo:
 
 A partir da criação de todas as classe, é a hora de realmentr "codar"...
 
-Começando pela aplicação da regra de para clacular o valor do imposto a ser cobrado a MAIS de acordo com valor do IPTU de cada imóvel.
-![Atividade 1](image.png) 
+Começando pela aplicação da regra de para calcular o valor do imposto a ser cobrado a MAIS de acordo com valor do IPTU de cada imóvel.
+
 
 
