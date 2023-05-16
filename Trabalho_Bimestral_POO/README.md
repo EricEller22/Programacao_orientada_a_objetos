@@ -10,6 +10,7 @@ Esse trabalho aplicado sob orientação do professor Vinicius, e desenvolvido em
 
 São conceitos abordados no trabalho, desde o que é um simples objeto até como o polimorfismo, sobreescrita e relacionamento entre classes podem ser ferramentas poderozas nas mãos de quem tem conhecimento para utilizá-las. E para adquirir este conhecimento nada melhor que "colocar mão na massa" e obervar de perto como funciona o paradigma de orientação à obejetos, mas claro, tendo em vista que os principais conceitos de poo devem estar veementemente entendidos e claros em sua memória, uma vez que, programação orientada a objetos é totalmente apoiada em conceitos que ditam como as coisas iram funcionar e que também facilitam o entendimento a cerca disto, por isto reforço, é fundamental antes da escrita de qualquer linha de código, ter em sua mente como funcionam os aspectos estruturais da POO.
 
-
+#### Desenvolvimento e experiência:
+O trabalho proposto pelo professor Vinicius, trata-se de um escopo simples apenas para fundamentar o conteudo desenvolvido ao decorrer das aulas, afim de fundamenta-los ainda mais. Observa-se que, em um primeiro momento uma "Enxurrada" de dúvidas vieram à tona, em relação a por exemplo com desenvolver de forma correta o que estava sendo pedido, no entando, posteriormente todas essa "lacunas" de conhecimento foram preenchidas por meio de simples bate papos com o professor e com os próprios integrantes do grupo.
 
 
